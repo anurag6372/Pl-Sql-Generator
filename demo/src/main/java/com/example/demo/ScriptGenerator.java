@@ -379,12 +379,4 @@ public class ScriptGenerator {
         return (String) schemaValues.get("id");
 
     }
-
-
-
-
-
-
-
-
 }
